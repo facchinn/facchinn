@@ -100,40 +100,22 @@ Development and continuous improvement of a real-world production web platform.
 
 ---
 
-## 🚀 Featured work
+## 🚀 Featured projects
 
-### 🟠 Plan V — Production Full Stack Platform
-
-<div align="center">
-  <a href="https://www.planificacionv.com/">
-    <img src="https://www.planificacionv.com/_next/image?q=75&url=%2Fhero-planv.png&w=3840" width="100%" alt="Plan V" />
-  </a>
-
-<br/><br/>
-
-[![Live Site](https://img.shields.io/badge/VIEW_LIVE_SITE-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.planificacionv.com/)
-[![Case Study](https://img.shields.io/badge/READ_CASE_STUDY-1F6FEB?style=for-the-badge&logo=readme&logoColor=white)](./PLANV_CASE_STUDY.md)
-![Private Code](https://img.shields.io/badge/SOURCE_CODE-PRIVATE-2F3136?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+### Plan V — Production Full Stack Platform
 
 Real-world travel platform where I participated across **frontend, backend, MySQL, reservations and availability, third-party integrations, deployments and production maintenance**.
 
-`Next.js` · `React` · `TypeScript` · `Node.js` · `MySQL` · `Mercado Pago` · `Cloudinary` · `VPS / PM2`
+**Stack:** `Next.js` · `React` · `TypeScript` · `Node.js` · `MySQL` · `Mercado Pago` · `Cloudinary` · `VPS / PM2`
 
-> The source code is private due to client confidentiality. The public case study describes my work without exposing implementation details, credentials or private business data.
+**Source code:** Private due to client confidentiality.  
+**Links:** [Live website](https://www.planificacionv.com/) · [Case study](./PLANV_CASE_STUDY.md)
 
-<br/>
-
-### 🎓 Full Stack Open — University of Helsinki
-
-<div align="center">
-  <a href="https://github.com/facchinn/full-stack-open">
-    <img width="70%" src="https://github-readme-stats.vercel.app/api/pin/?username=facchinn&repo=full-stack-open&theme=github_dark&hide_border=true" />
-  </a>
-</div>
+### Full Stack Open — University of Helsinki
 
 Completed the core curriculum through **Part 7 — 7 ECTS · Grade 5/5**, covering modern React, Node.js, REST APIs, authentication, automated testing, state management and full-stack application architecture.
+
+**Repository:** [facchinn/full-stack-open](https://github.com/facchinn/full-stack-open)
 
 ---
 
