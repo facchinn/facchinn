@@ -1,116 +1,171 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,50:1F6FEB,100:0D1117&text=Nazareno%20Facchin&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" />
+</div>
 
-# Hi, I'm Nazareno Facchin 👋
+<div align="center">
 
-### Full Stack Developer · React · Next.js · Node.js · TypeScript
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;Frontend+%2B+Backend+%2B+Databases;5%2B+years+in+technology+%26+web+development;Building+practical+software+solutions" alt="Typing SVG" />
+</a>
 
-Building web applications, backend services and practical software solutions with a strong background in technology and automation.
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazafacchin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/facchinn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nazareno_Facchin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazafacchin)
+[![GitHub](https://img.shields.io/badge/GitHub-facchinn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/facchinn)
+![Open to Work](https://img.shields.io/badge/Open_to_Work-Full_Stack_%7C_Frontend_%7C_Backend-238636?style=for-the-badge)
 
 </div>
 
 ---
 
-## About me
+## 👨‍💻 About me
 
-I'm a Full Stack Developer from Argentina with **5+ years of experience in technology, web development and automation environments**.
+I'm a **Full Stack Developer from Argentina** with **5+ years of experience in technology, web development and automation environments**.
 
-I work across frontend and backend, building and maintaining web applications, APIs, databases and integrations. My background also includes infrastructure, Microsoft environments and industrial automation, which gives me a broader technical perspective when solving real-world problems.
+I build and maintain web applications across the full stack: user interfaces, backend services, APIs, databases, integrations and production deployments. My technical background also includes infrastructure, Microsoft environments and automation, which helps me approach software problems from a broader systems perspective.
 
-- 💻 Full Stack development with **React, Next.js, Node.js and TypeScript**
-- 🔌 REST APIs, integrations and backend services
-- 🗄️ Relational and NoSQL databases with **MySQL and MongoDB**
-- ⚙️ Experience with software used in automation and internal business processes
-- ☁️ Familiar with **Microsoft Azure, Microsoft 365 and VPS deployments**
-- 🧩 Strong troubleshooting background across software and hardware
-- 📚 Continuously improving through real projects and advanced full-stack training
+- 🔹 Full Stack development with **React, Next.js, Node.js and TypeScript**
+- 🔹 REST APIs, integrations and backend services
+- 🔹 **MySQL** and **MongoDB** databases
+- 🔹 Production deployments, VPS environments and troubleshooting
+- 🔹 Experience with **Azure, Microsoft 365, SAP and automation-related systems**
+- 🔹 Strong background combining **software + hardware + problem solving**
 
 ---
 
-## Tech stack
+## 🧰 Tech stack
+
+<div align="center">
 
 ### Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&theme=dark" />
 
 ### Backend & Databases
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" />
 
-### Languages, tools & platforms
+### Tools & Platforms
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,azure,linux,vscode&theme=dark" />
+
+<br/><br/>
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![VPS](https://img.shields.io/badge/VPS_Deployments-222222?style=flat-square&logo=linux&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
+
+</div>
 
 ---
 
-## Professional experience
+## 💼 Professional experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### SCA — Sistemas, Control y Automatización
-**Web / Full Stack Development · 2021 — Present**
+**Web / Full Stack Development**  
+`2021 — Present`
 
-Development and maintenance of web applications used in automation and process-optimization projects, including frontend and backend development, database work, integrations, troubleshooting and technical infrastructure support.
+Development and maintenance of web applications for automation and process-optimization projects.
+
+**Focus:**
+- Frontend & backend development
+- Databases and integrations
+- Internal systems and troubleshooting
+- Technical infrastructure support
+
+</td>
+<td width="50%" valign="top">
 
 ### Plan V
-**Full Stack Development · Freelance / Project-based**
+**Full Stack Development**  
+`Freelance / Project-based`
 
-Development and continuous improvement of a full-stack web platform, including frontend and backend features, MySQL database work, reservation and availability flows, third-party integrations and production maintenance.
+Development and continuous improvement of a real-world full-stack web platform.
 
----
+**Focus:**
+- Next.js / React / TypeScript
+- Backend features & MySQL
+- Reservations and availability
+- Third-party integrations & production maintenance
 
-## Education & continuous learning
-
-### Full Stack Open — University of Helsinki
-**7 ECTS · Grade 5/5**
-
-Completed the core Full Stack Open curriculum covering modern React development, Node.js, REST APIs, testing, state management and full-stack application architecture.
-
----
-
-## Selected work
-
-- **Full Stack Open** — coursework and full-stack exercises from the University of Helsinki
-- **SCADA / Automation projects** — web interfaces and software solutions connected to automation workflows
-- **Plan V** — real-world full-stack platform work involving frontend, backend, databases, integrations and deployment
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub activity
+## 🎓 Education & certification
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=facchinn&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facchinn&layout=compact&theme=github_dark&hide_border=true" />
+
+### University of Helsinki — Full Stack Open
+
+**7 ECTS · Grade 5/5**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing-Vitest_%7C_Playwright-6E9F18?style=flat-square)
+![State Management](https://img.shields.io/badge/State-Zustand_%7C_React_Query-764ABC?style=flat-square)
+
+Modern full-stack development covering React, Node.js, REST APIs, authentication, testing, state management and application architecture.
+
+</div>
+
+---
+
+## 🚀 Featured projects
+
+<div align="center">
+
+<a href="https://github.com/facchinn/scada-app">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=facchinn&repo=scada-app&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/facchinn/full-stack-open">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=facchinn&repo=full-stack-open&theme=github_dark&hide_border=true" />
+</a>
+
+</div>
+
+### Other work
+
+- **SCADA / Automation projects** — web interfaces and software solutions connected to automation workflows.
+- **Plan V** — full-stack platform work involving frontend, backend, databases, integrations and deployment.
+- **Full Stack Open** — practical exercises and applications from the University of Helsinki curriculum.
+
+---
+
+## 📊 GitHub activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=facchinn&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facchinn&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=facchinn&theme=github-compact&hide_border=true&area=true" />
+
 </div>
 
 ---
 
 <div align="center">
 
-### Open to new opportunities
+## 🤝 Let's connect
 
-I'm interested in **Full Stack, Frontend and Backend development** opportunities where I can contribute, keep learning and build reliable software.
+I'm open to opportunities in **Full Stack, Frontend and Backend Development**.
 
-**Let's connect:** [LinkedIn](https://www.linkedin.com/in/nazafacchin)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazafacchin)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D1117,50:1F6FEB,100:0D1117" width="100%" />
 
 </div>
