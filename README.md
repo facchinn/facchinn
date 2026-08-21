@@ -86,17 +86,54 @@ Development and maintenance of web applications for automation and process-optim
 **Full Stack Development**  
 `Freelance / Project-based`
 
-Development and continuous improvement of a real-world full-stack web platform.
+Development and continuous improvement of a real-world production web platform.
 
 **Focus:**
 - Next.js / React / TypeScript
 - Backend features & MySQL
 - Reservations and availability
-- Third-party integrations & production maintenance
+- Integrations, deployments & maintenance
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🚀 Featured work
+
+### 🟠 Plan V — Production Full Stack Platform
+
+<div align="center">
+  <a href="https://www.planificacionv.com/">
+    <img src="https://www.planificacionv.com/_next/image?q=75&url=%2Fhero-planv.png&w=3840" width="100%" alt="Plan V" />
+  </a>
+
+<br/><br/>
+
+[![Live Site](https://img.shields.io/badge/VIEW_LIVE_SITE-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.planificacionv.com/)
+[![Case Study](https://img.shields.io/badge/READ_CASE_STUDY-1F6FEB?style=for-the-badge&logo=readme&logoColor=white)](./PLANV_CASE_STUDY.md)
+![Private Code](https://img.shields.io/badge/SOURCE_CODE-PRIVATE-2F3136?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+Real-world travel platform where I participated across **frontend, backend, MySQL, reservations and availability, third-party integrations, deployments and production maintenance**.
+
+`Next.js` · `React` · `TypeScript` · `Node.js` · `MySQL` · `Mercado Pago` · `Cloudinary` · `VPS / PM2`
+
+> The source code is private due to client confidentiality. The public case study describes my work without exposing implementation details, credentials or private business data.
+
+<br/>
+
+### 🎓 Full Stack Open — University of Helsinki
+
+<div align="center">
+  <a href="https://github.com/facchinn/full-stack-open">
+    <img width="70%" src="https://github-readme-stats.vercel.app/api/pin/?username=facchinn&repo=full-stack-open&theme=github_dark&hide_border=true" />
+  </a>
+</div>
+
+Completed the core curriculum through **Part 7 — 7 ECTS · Grade 5/5**, covering modern React, Node.js, REST APIs, authentication, automated testing, state management and full-stack application architecture.
 
 ---
 
@@ -114,30 +151,7 @@ Development and continuous improvement of a real-world full-stack web platform.
 ![Testing](https://img.shields.io/badge/Testing-Vitest_%7C_Playwright-6E9F18?style=flat-square)
 ![State Management](https://img.shields.io/badge/State-Zustand_%7C_React_Query-764ABC?style=flat-square)
 
-Modern full-stack development covering React, Node.js, REST APIs, authentication, testing, state management and application architecture.
-
 </div>
-
----
-
-## 🚀 Featured projects
-
-<div align="center">
-
-<a href="https://github.com/facchinn/scada-app">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=facchinn&repo=scada-app&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/facchinn/full-stack-open">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=facchinn&repo=full-stack-open&theme=github_dark&hide_border=true" />
-</a>
-
-</div>
-
-### Other work
-
-- **SCADA / Automation projects** — web interfaces and software solutions connected to automation workflows.
-- **Plan V** — full-stack platform work involving frontend, backend, databases, integrations and deployment.
-- **Full Stack Open** — practical exercises and applications from the University of Helsinki curriculum.
 
 ---
 
@@ -169,5 +183,3 @@ I'm open to opportunities in **Full Stack, Frontend and Backend Development**.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D1117,50:1F6FEB,100:0D1117" width="100%" />
 
 </div>
-
-<!-- profile-readme-refresh: 2026-08-20 -->
