@@ -169,3 +169,5 @@ I'm open to opportunities in **Full Stack, Frontend and Backend Development**.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D1117,50:1F6FEB,100:0D1117" width="100%" />
 
 </div>
+
+<!-- profile-readme-refresh: 2026-08-20 -->
